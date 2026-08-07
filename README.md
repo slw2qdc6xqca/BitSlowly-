@@ -31,48 +31,6 @@ Features
 
 ---
 
-Project Structure
-
-BitSlowly/
-├── core.py
-├── node.py
-├── wallet.py
-├── mining.py
-├── consensus.py
-├── ui py
-├── docs/
-│   ├── Whitepaper.pdf
-│   ├── Bug_Bounty_Hunter_Part_I.pdf
-│   └── logo.png
-└── README.md
-
----
-
-Quick Start
-
-Clone the repository:
-
-git clone <repository-url>
-cd BitSlowly
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-Run a node:
-
-python node.py
-
-Run the wallet:
-
-python wallet.py
-
-Start mining:
-
-python mining.py
-
----
-
 Documentation
 
 - 📄 BitSlowly Whitepaper
