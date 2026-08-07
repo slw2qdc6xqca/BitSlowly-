@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/BitSlowly.png" width="180">
+  <img src="download/BitSlowly.png" width="180">
 </p>
 
 <h1 align="center">BitSlowly</h1>
