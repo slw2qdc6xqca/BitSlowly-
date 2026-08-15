@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">BitSlowly:
-A CPU Based Electronic Cash System</h1>
+Electronic Cash System</h1>
 </p>
 
 Introduction
