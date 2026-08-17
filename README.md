@@ -6,8 +6,6 @@
 Electronic Cash System</h1>
 </p>
 
-# BitSlowly
-
 electronic cash system.
 
 PoW · UTXO · ECDSA · P2P · CPU Mining
